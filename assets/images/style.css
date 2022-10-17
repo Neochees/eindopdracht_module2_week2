@@ -1,0 +1,63 @@
+body{
+    background-color: limegreen;
+}
+#kaart1{
+    background-color: white;
+    width: 149px;
+    height: 207px;
+    border-radius: 5%;
+}
+.topAblack{
+    color: black;
+}
+.icontop img{
+    width: 20px;
+    height: 20px;
+}
+.persoon img{
+    width: 100px;
+    height: 100px;
+    margin-left: 22px;
+    margin-top: 7px;
+}
+.iconbottem img{
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-left: 125px;
+    transform: rotate(3.142rad);
+}
+.bottemAblack{
+    color: black;
+    margin-left: 130px;
+    transform: rotate(3.142rad);
+}
+#kaart2{
+    background-color: white;
+    width: 149px;
+    height: 207px;
+    border-radius: 5%;
+    margin-left: 150px;
+}
+.topAred{
+    color: red;
+}
+.bottemAred{
+    color: red;
+    margin-left: 130px;
+    transform: rotate(3.142rad);
+}
+#kaart3{
+    background-color: white;
+    width: 149px;
+    height: 207px;
+    border-radius: 5%;
+    margin-left: 300px;
+}
+#kaart4{
+    background-color: white;
+    width: 149px;
+    height: 207px;
+    border-radius: 5%;
+    margin-left: 450px;
+}
